@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot-meem",
+  "version": "13.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": ":D"
+  },
+  "keywords": [],
+  "author": "BilalAtes",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-button": "^1.0.3",
+    "discord-button-pages": "^1.1.9",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^13.3.1"
+  }
+}
